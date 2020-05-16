@@ -1,0 +1,5 @@
+<!--pages/RoutingRp/Rp.wxml-->
+<text>路由传参</text>
+<view data-item="test" bindtap='Shopdetail'> 
+  <view class="box">点击跳转页面</view>
+</view> 

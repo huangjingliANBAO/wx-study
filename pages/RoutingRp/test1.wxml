@@ -1,0 +1,3 @@
+<!--pages/RoutingRp/test1.wxml-->
+<text>详情页</text>
+<view>{{item.name}}</view>

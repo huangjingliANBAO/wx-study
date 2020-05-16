@@ -1,0 +1,7 @@
+/* pages/RoutingRp/Rp.wxss */
+.box {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000000;
+}

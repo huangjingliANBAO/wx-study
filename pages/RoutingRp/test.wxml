@@ -1,0 +1,2 @@
+<text>跳转到的页面</text>
+<view wx:for="{{listdata}}" wx:key="index" data-item="{{item}}" bindtap='Shopdetail' class="box">{{item.id}}</view>

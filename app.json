@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/cpt/cpt",
+    "pages/popup/popup",
+    "pages/RoutingRp/Rp",
+    "pages/request/request" 
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#DF3031",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/1.png",
+        "selectedIconPath": "images/1.png"
+      },
+      {
+        "pagePath": "pages/cpt/cpt",
+        "text": "component",
+        "iconPath": "images/4.png",
+        "selectedIconPath": "images/4.png"
+      },
+      {
+        "pagePath": "pages/popup/popup",
+        "text": "popup",
+        "iconPath": "images/2.png",
+        "selectedIconPath": "images/2.png"
+      },
+      {
+        "pagePath": "pages/RoutingRp/Rp",
+        "text": "页面跳转",
+        "iconPath": "images/3.png",
+        "selectedIconPath": "images/3.png"
+      },
+      {
+        "pagePath": "pages/request/request",
+        "text": "请求数据",
+        "iconPath": "images/3.png",
+        "selectedIconPath": "images/3.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
